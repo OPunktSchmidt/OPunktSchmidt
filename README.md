@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a software developer from Germany and mainly develop in C#/.Net. Privately and as part of side business, I also use other technologies such as Android/Java. I am interested in Cloud/DevOps/Automation and am trying to educate myself in this area. I'm always open to learn new things.
+
+I am the founder and developer of the Android app "Fast Calorie Counter" which has over 300,000 downloads on the Play Store. The app takes a minimalist and time-saving approach in an information-overflowing world.
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=opunktschmidt.fastcaloriecounter)
+
+The largest of my repositories are currently private because they are part of my side business. At the moment you will find small experiments and learning projects here. Maybe in the future I'll find an idea to develop something bigger in public.
+
 <!--
 **OPunktSchmidt/OPunktSchmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
