@@ -4,7 +4,7 @@ I am a software developer from Germany and mainly develop in C#/.Net. Privately 
 
 I am the founder and developer of the Android app "Fast Calorie Counter" which has over 300,000 downloads on the Play Store. The app takes a minimalist and time-saving approach in an information-overflowing world. **Try it if you like:**
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height=80 weight=80>](https://play.google.com/store/apps/details?id=opunktschmidt.fastcaloriecounter?target=_blank)
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height=80 weight=80>](https://play.google.com/store/apps/details?id=opunktschmidt.fastcaloriecounter)
 
 The largest of my repositories are currently private because they are part of my side business. At the moment you will find small experiments and learning projects here. Maybe in the future I'll find an idea to develop something bigger in public.
 
